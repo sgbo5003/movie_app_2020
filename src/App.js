@@ -4,16 +4,23 @@ function Food({ fav }) {
   return <h1>I love {fav}</h1>;
 }
 
+const foodLike = [
+  {
+    name: "김치",
+  },
+  {
+    name: "만두",
+  },
+  {
+    name: "치킨",
+  },
+];
+
 function App() {
   //return <div className="App" />;
   return (
     <div>
       <h1>Hello!!!!!</h1>
-      <Food fav="김치" />
-      <Food fav="짜장면" />
-      <Food fav="짬뽕" />
-      <Food fav="만두" />
-      <Food fav="피자" />
     </div>
   );
 }
