@@ -4,6 +4,11 @@
 
 React Js Fundamentals Course 2020
 
+## 09월 25일
+
+> 1. map함수 활용
+> 2. 이미지 import 하는법 학습
+
 ## 09월 18일
 
 > 1. 컴포넌트가 무엇인지 알아보고 JSX를 학습
