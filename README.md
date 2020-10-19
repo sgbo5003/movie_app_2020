@@ -4,6 +4,13 @@
 
 React Js Fundamentals Course 2020
 
+## 10월 16일
+
+> 1. 버튼을 눌렀을 때 1증가,1감소하는 숫자 증감 기능 구현
+> 2. 버튼을 눌렀을 때 작동하는 onClick속성
+> 3. 영화 앱 만들기
+> 4. axios는 node.js와 브라우저를 위한 http통신 javascript 라이브러리
+
 ## 10월 7일
 
 > 1. 이때까지 학습했던 음식 앱 마무리
