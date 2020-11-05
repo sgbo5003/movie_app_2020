@@ -4,6 +4,15 @@
 
 React Js Fundamentals Course 2020
 
+## 10월 30일
+
+> 1. PropTypes은 React에서 타입을 체크하기 위해서 사용되는 라이브러리
+> 2. ComponentDidMount()함수 : render()함수가 화면에 다 그린 이후 호출되는 함수
+
+## 10월 23일
+
+> 중간고사
+
 ## 10월 16일
 
 > 1. 버튼을 눌렀을 때 1증가,1감소하는 숫자 증감 기능 구현

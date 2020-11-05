@@ -20,10 +20,10 @@ class App extends React.Component{
   }
   
   render(){
-    const {isLoading} = this.state;
+    const {isLoading, movies} = this.state;
     return(
       <div>
-        {isLoading ? 'Loading...' : 'We are ready'}
+        {isLoading ? 'Loading...' : movies.map()}
       </div>
     );
   }
