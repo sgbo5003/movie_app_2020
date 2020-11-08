@@ -6,6 +6,16 @@
 
 <br>
 
+# **11월 6일**
+
+**state**를 이용하기위해서 **class component**를 사용한다.
+
+**object**를 풀어줄 때 **map함수**를 사용하고, 또, **jsx**에서는 **props**를 통해서 값을 전달합니다. **key**는 표현되지 않지만 **필수props**이다.
+
+css 파일을 **import** 해 스타일 입히기(Movie.css, App.css)
+
+<br>
+
 # **10월 30일**
 
 **PropTypes**은 React에서 **타입을 체크**하기 위해서 사용되는 **라이브러리**
