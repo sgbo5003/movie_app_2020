@@ -6,6 +6,42 @@
 
 <br>
 
+# **11월 13일**
+
+**slice(0, 값)** 을 이용해 배열 **자르기** (원하는 부분까지 출력 하기 위해)
+
+ex)
+
+```
+summary.slice(0, 180)
+```
+
+**react-router-dom** : 네비게이션을 만들어주는 패키지
+
+**라우터** : **url**을 가져다가 확인하고 **컴포넌트**를 가져온다.
+
+ex)
+
+```
+//exact={ture} 를 해야 path의 경로와 정확히 일치하는 component만 보여준다. 하지않으면 전부 보여준다.
+    <HashRouter>
+      <Route path="/" exact={true} component={Home} />
+      <Route path="/about" component={About} />
+    </HashRouter>
+```
+
+**router 밖에서 Link를 쓸 수 없다.**
+
+**리액트 라우터 exact**
+
+```
+//exact={ture} 를 해야 path의 경로와 정확히 일치하는 component만 보여준다. 하지않으면 전부 보여준다.
+
+<Route path="/" exact={true} component={Home} />
+```
+
+<br>
+
 # **11월 6일**
 
 **state**를 이용하기위해서 **class component**를 사용한다.
