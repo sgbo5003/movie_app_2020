@@ -1,0 +1,25 @@
+.container1 {
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  padding: 20px;
+}
+
+.container1 .sector1 {
+  font-size: 20px;
+  font-weight: 600;
+  padding-top: 30px;
+}
+
+.container1 .sector2 {
+  font-size: 20px;
+}
+
+.container1 .sector3 {
+  font-size: 20px;
+}
+
+.container1 .sector4 {
+  font-size: 20px;
+  margin: 0 450px;
+}
