@@ -6,6 +6,28 @@
 
 <br>
 
+# **11월 20일**
+
+**gh-pages 설치**
+
+**gh-pages**는 나의 웹사이트를 github의 **github page 도메인**에 나타나게 해준다.
+
+### **홈페이지 양식**
+
+https://{your github username}.github.io/{the name of your project in github}
+
+**(소문자 이어야하고, 띄어쓰기 x)**
+
+**npm run build** : **build 폴더**를 얻는 방법
+
+**npm run deploy** : 업데이트
+
+**deploy** : build 폴더를 **upload** 한다.
+
++**css 완성**
+
+<br>
+
 # **11월 13일**
 
 **slice(0, 값)** 을 이용해 배열 **자르기** (원하는 부분까지 출력 하기 위해)
